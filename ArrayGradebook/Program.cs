@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ListGradebook
+namespace ArrayGradebook
 {
     class Program
     {
