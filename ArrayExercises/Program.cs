@@ -4,14 +4,11 @@ namespace ArrayExercises
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-
-            
-
             int[] myArray = { 1, 1, 2, 3, 5, 8 };
             
-            Console.WriteLine(Loop.GetLoop(myArray));
+            Loop.GetLoop(myArray);
             
             //for (int i = 0; i < myArray.Length; i++)
             //{
